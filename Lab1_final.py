@@ -5,11 +5,11 @@ import matplotlib.pyplot as pyplot
 
 
 """"
-Title: Computational Biology 309 Lab 1 -  Searching for a bacterial replication origin
+Title: Computational Biology Lab 1 -  Searching for a bacterial replication origin
 
-Authors: Xinduo Fan, Yanni Guo and Kairuo Yan
+Author: Yanni Guo
 
-Date: 9/17/2021
+Date: September 2021
 """
 
 def readGenome(name):
