@@ -3,11 +3,11 @@ import random
 from Bio import Entrez, SeqIO
 
 """"
-Title: Computational Biology 309 Lab 2 -  DosR binding site motif search in Mycobacterium tuberculosis
+Title: Computational Biology Lab 2 -  DosR binding site motif search in Mycobacterium tuberculosis
 
-Authors: Xinduo Fan, Yanni Guo and Kairuo Yan
+Author: Yanni Guo
 
-Date: 10/6/2021
+Date: October 2021
 """
 
 def getCounts(motifs):
