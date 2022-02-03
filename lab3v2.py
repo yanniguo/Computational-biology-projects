@@ -5,6 +5,12 @@ from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
 import queue
 
+"""
+Title: deBruijn graph and genome reconstruction lab
+Authors:Yanni Guo and XD
+Date: October 2021
+"""
+
 def readpairs(name,k):
     """
     Read the FASTA file and return a list of reads and a list of k-mers from the reads
