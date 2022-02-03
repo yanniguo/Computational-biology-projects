@@ -5,6 +5,12 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import argparse
 #import heatmap
+"""
+Title: COVID-19 genome mutation analysis lab
+Authors: Yanni Guo and XD
+Date: November 2021
+
+"""
 
 def readSequence(name,sequences):
     """
