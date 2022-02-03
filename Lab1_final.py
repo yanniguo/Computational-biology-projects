@@ -7,7 +7,7 @@ import matplotlib.pyplot as pyplot
 """"
 Title: Computational Biology Lab 1 -  Searching for a bacterial replication origin
 
-Author: Yanni Guo
+Author: Yanni Guo and XD
 
 Date: September 2021
 """
