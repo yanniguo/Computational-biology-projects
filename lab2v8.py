@@ -5,7 +5,7 @@ from Bio import Entrez, SeqIO
 """"
 Title: Computational Biology Lab 2 -  DosR binding site motif search in Mycobacterium tuberculosis
 
-Author: Yanni Guo
+Author: Yanni Guo and XD
 
 Date: October 2021
 """
